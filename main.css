@@ -1,0 +1,64 @@
+main{
+    padding: 5%;  
+    font-family: 'Flamante Cairo', sans-serif;
+}
+svg{
+    color: #fff !important;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 50%;
+    align-items: center;
+}
+
+.pageContent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+section{
+    display: flex;
+    justify-content: center;;
+}
+
+h1{
+    margin-bottom: 0;
+}
+p{
+    margin-bottom: 5%;
+    font-size: 18px;
+}
+
+a{
+    width: 100%;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+    color:#fff;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    display: flex;
+    justify-content: center;
+}
+a:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+#insta{
+    background-color:  crimson;
+}
+#whatsApp{
+    background-color: #25D366;
+}
+#Map{
+    background-color: #007bff;
+}
