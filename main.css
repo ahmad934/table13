@@ -60,7 +60,7 @@ a:hover{
     background-color: #25D366;
 }
 #tiktok{
-    background-color: black;
+    background-color: #000 !important;
 }
 #Map{
     background-color: #007bff;
